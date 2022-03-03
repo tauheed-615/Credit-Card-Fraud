@@ -11,4 +11,3 @@ Install necessary libraries:
 **Class imbalanced data:** When in a dataset, a class, particularly a class of interest in rare, it is called class imabalanced data. Such data needs to be handled differently as due to class imabalnce, normal data exploration techniques may provide false correlations, overfitting and misleading results. 
 Therefore, such data is either undersampled or oversampled so as to maintain the class distribution.
 In the notebook given, I have explored the dataset using various techniques and trick. For visualization of high dimensional dataset, PCA and t-SNE are used. 
-I am working on modelling part and the scripts for the same will be provided soon.
